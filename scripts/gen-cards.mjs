@@ -6,7 +6,7 @@ const REPOS = [
   { name: "ApplicationTracker", icon: "📋", accent: ["#1f9d55", "#2F81F7"], fallbackDesc: "JobApptracker — spårning av jobbansökningar." },
   { name: "Smart-Home", icon: "🏠", accent: ["#f97316", "#e34c26"], fallbackDesc: "Smart Home Hub — styrsystem för smarta hem-enheter." },
   { name: "Mini-EShop", icon: "🛒", accent: ["#f5a623", "#10b981"], fallbackDesc: "E-handelsprototyp — produktkatalog och kundvagn." },
-  { name: "StudentFlow", icon: "🎓", accent: ["#a855f7", "#6f42c1"], fallbackDesc: "Studenthanteringssystem." },
+  { name: "StudentHub", icon: "🎓", accent: ["#a855f7", "#6f42c1"], fallbackDesc: "Studenthanteringssystem." },
   { name: "StudentAPI", icon: "🔌", accent: ["#22c55e", "#178600"], fallbackDesc: "REST API för studentdata." },
 ];
 

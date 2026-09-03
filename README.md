@@ -32,7 +32,7 @@
 <a href="https://github.com/yonisb77/Smart-Home"><img alt="Smart-Home" src="https://raw.githubusercontent.com/yonisb77/yonisb77/main/assets/cards/Smart-Home.svg" width="410" /></a>
 <a href="https://github.com/yonisb77/Mini-EShop"><img alt="Mini-EShop" src="https://raw.githubusercontent.com/yonisb77/yonisb77/main/assets/cards/Mini-EShop.svg" width="410" /></a>
 <br/>
-<a href="https://github.com/yonisb77/StudentFlow"><img alt="SkolSystem" src="https://raw.githubusercontent.com/yonisb77/yonisb77/main/assets/cards/StudentFlow.svg" width="410" /></a>
+<a href="https://github.com/yonisb77/StudentHub"><img alt="StudentHub" src="https://raw.githubusercontent.com/yonisb77/yonisb77/main/assets/cards/StudentHub.svg" width="410" /></a>
 <a href="https://github.com/yonisb77/StudentAPI"><img alt="StudentAPI" src="https://raw.githubusercontent.com/yonisb77/yonisb77/main/assets/cards/StudentAPI.svg" width="410" /></a>
 
 </div>
