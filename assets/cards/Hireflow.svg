@@ -40,6 +40,6 @@
   <circle cx="28" cy="160" r="4" fill="#3178c6"/><text x="36" y="164" font-size="11" fill="#8b949e">TypeScript 92%</text><circle cx="137.60000000000002" cy="160" r="4" fill="#336790"/><text x="145.60000000000002" y="164" font-size="11" fill="#8b949e">PLpgSQL 7%</text><circle cx="221.60000000000002" cy="160" r="4" fill="#563d7c"/><text x="229.60000000000002" y="164" font-size="11" fill="#8b949e">CSS 1%</text>
 
   <line x1="24" y1="174" x2="386" y2="174" stroke="#21262d" stroke-width="1"/>
-  <text x="24" y="182" font-size="10" fill="#8b949e">Uppdaterad 4d sedan</text>
+  <text x="24" y="182" font-size="10" fill="#8b949e">Uppdaterad 5d sedan</text>
   <text x="386" y="182" font-size="11" fill="#2F81F7" text-anchor="end" font-weight="600">Visa repo ↗</text>
 </svg>
