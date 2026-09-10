@@ -37,6 +37,6 @@
   <circle cx="28" cy="160" r="4" fill="#178600"/><text x="36" y="164" font-size="11" fill="#8b949e">C# 75%</text><circle cx="86.4" cy="160" r="4" fill="#e38c00"/><text x="94.4" y="164" font-size="11" fill="#8b949e">TSQL 25%</text>
 
   <line x1="24" y1="174" x2="386" y2="174" stroke="#21262d" stroke-width="1"/>
-  <text x="24" y="182" font-size="10" fill="#8b949e">Uppdaterad 6mån sedan</text>
+  <text x="24" y="182" font-size="10" fill="#8b949e">Uppdaterad 7mån sedan</text>
   <text x="386" y="182" font-size="11" fill="#2F81F7" text-anchor="end" font-weight="600">Visa repo ↗</text>
 </svg>
